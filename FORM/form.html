@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contato</title>
+</head>
+<body>
+    <form action="" method="POST">
+        <fieldset>
+            <legend>Entre em contato</legend>
+            <select name="tipo de contato" id="tipoCont" style="margin-bottom: 10px;">
+                <option value="elogio">Elogio</option>
+                <option value="sugestão">Sugestão</option>
+                <option value="suporte">Suporte</option>
+                <option value="reclamacao">Reclamação</option>
+            </select>
+            <br>
+            <label for="name"><strong>Nome Completo:</strong></label><br>
+            <input type="text" id="name" style="margin-bottom: 10px;" placeholder="Seu nome completo" required>
+            <br>
+            <label for="email"><strong>Email:</strong></label><br>
+            <input type="email" name="emai" id="mail" style="margin-bottom: 10px;" placeholder="seuemail@email.com" required><br>
+            <label for="whatsapp"><strong>Whatsapp:</strong></label><br>
+            <input type="tel" name="whatsapp" id="whatsapp" style="margin-bottom: 10px;" placeholder="(xx) xxxxx-xxxx" required><br>            
+            <label for="mensagem"><strong>Mensagem:</strong></label><br>
+            <textarea name="mensagem" id="mensagem" cols="20" rows="5" style="margin-bottom: 20px;" placeholder="Insira aqui sua mensagem"></textarea><br>
+            <input type="checkbox" name="agree" id="agree" checked>
+            <label for="agree">Aceito receber noticias e novidades atraves de email e whatsapp</label><br>
+            <input autofocus type="submit" style="margin-top: 10px; margin-bottom: 5px;">
+        </fieldset>
+    </form>
+</body>
+</html>
