@@ -10,7 +10,5 @@
 <p>Oderlan Freire
 
 ## Contatos
-<p>
 -<a href="https://www.linkedin.com/in/oderlanfs/">Linkedin</a>
 -<a href="oderlanfreire@gmail.com">Email</a>
-</p>
