@@ -11,6 +11,7 @@
   <li><a href="https://github.com/oderlanfreire/RocketseatCourse/blob/main/FORM/form.html">Formulário</a></li>
   <li><a href="https://github.com/oderlanfreire/RocketseatCourse/blob/main/GLOSSARY/glossary.html">Glossário</a></li>
   <li><a href="https://github.com/oderlanfreire/RocketseatCourse/blob/main/MARKETLIST/shopping-list.html">Lista de compras</a></li>
+  <li><a href="https://github.com/oderlanfreire/RocketseatCourse/blob/main/QUIZ/quiz.html">Quiz</a></li>
 </ul>
 
 ## Autor
