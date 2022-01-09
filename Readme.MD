@@ -6,6 +6,13 @@
 ## Status
 <p>Em desenvolvimento 🚧 </p>
 
+## Exercícios HTML concluídos
+<ul>
+  <li><a href="https://github.com/oderlanfreire/RocketseatCourse/blob/main/FORM/form.html">Formulário</a></li>
+  <li><a href="https://github.com/oderlanfreire/RocketseatCourse/blob/main/GLOSSARY/glossary.html">Glossário</a></li>
+  <li><a href="https://github.com/oderlanfreire/RocketseatCourse/blob/main/MARKETLIST/shopping-list.html">Lista de compras</a></li>
+</ul>
+
 ## Autor
 <p>Oderlan Freire
 
