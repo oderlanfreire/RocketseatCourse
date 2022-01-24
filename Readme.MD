@@ -4,7 +4,7 @@
 <p>Aqui se encontrará todas as minhas atividades feitas no tempo de estudo de curso de desenvolvimento web pela Rocketseat</p>
 
 ## Status
-<p>Em desenvolvimento 🚧 </p>
+<p>Finalizado ✔✔✔</p>
 
 ## Exercícios HTML concluídos
 <ul>
@@ -12,6 +12,7 @@
   <li><a href="https://github.com/oderlanfreire/RocketseatCourse/blob/main/GLOSSARY/glossary.html">Glossário</a></li>
   <li><a href="https://github.com/oderlanfreire/RocketseatCourse/blob/main/MARKETLIST/shopping-list.html">Lista de compras</a></li>
   <li><a href="https://github.com/oderlanfreire/RocketseatCourse/blob/main/QUIZ/quiz.html">Quiz</a></li>
+  <li><a href="https://github.com/oderlanfreire/RocketseatCourse/blob/main/BLOGPOST/blog-post.html"> Blog Post</a></li>
 </ul>
 
 ## Autor
